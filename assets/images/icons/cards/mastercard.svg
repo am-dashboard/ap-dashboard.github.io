@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="22px" viewBox="0 0 34 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Payform/OneField/icon/mastercard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Payform/OneField/icon/mastercard">
+            <g id="Group">
+                <rect id="Rectangle-7" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="34" height="22"></rect>
+                <g id="icon_mastercard" transform="translate(7.000000, 5.000000)">
+                    <polygon id="Fill-2" fill="#FF723A" points="7.2856305 10.6901801 12.686217 10.6901801 12.686217 1.27967773 7.2856305 1.27967773"></polygon>
+                    <path d="M7.628739,5.98492891 C7.628739,4.07584834 8.55067449,2.37565877 9.98609971,1.27967773 C8.93607038,0.478123223 7.61155425,0 6.17173021,0 C2.7631085,0 0,2.67969668 0,5.98492891 C0,9.29016114 2.7631085,11.9698578 6.17173021,11.9698578 C7.61155425,11.9698578 8.93607038,11.4917346 9.98609971,10.6901801 C8.55067449,9.59425592 7.628739,7.89400948 7.628739,5.98492891" id="Fill-3" fill="#F53B4A"></path>
+                    <path d="M13.8004692,11.967273 C12.3606452,11.967273 11.036129,11.4892371 9.98651026,10.6878291 C11.4219355,9.59250315 12.3435191,7.89222615 12.3435191,5.98343749 C12.3435191,4.07470569 11.4219355,2.37482673 9.98651026,1.27904591 C11.036129,0.478035875 12.3606452,0 13.8004692,0 C17.2090909,0 19.9721994,2.6788091 19.9721994,5.98343749 C19.9721994,9.28846392 17.2090909,11.967273 13.8004692,11.967273 Z" id="Fill-4" fill="#FFB32B"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
